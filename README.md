@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Daniel Bugingo<br>👀 I’m interested in frontend JavaScript, Python and GIS<br>🌱 I’m currently learning JAVA<br>💞️ I’m looking to collaborate on a Django project.<br>📫 How to reach me danielbugingo1@gmail.com
+👋 Hi, I’m Daniel Bugingo<br>👀 I’m interested in frontend JavaScript, Python and GIS<br>🌱 I’m currently learning JAVA<br>💞️ I’m looking to collaborate on a JavaScript project.<br>📫 How to reach me danielbugingo1@gmail.com
 
 
 ## 🌐 Socials:
