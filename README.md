@@ -2,7 +2,7 @@
 👋 Hi, I’m Daniel Bugingo<br>👀 I’m interested in frontend JavaScript, Python and GIS<br>🌱 I’m currently learning JAVA backend<br>💞️ I’m looking to collaborate on a project.<br>📫 How to reach me danielbugingo1@gmail.com
 
 
-## 🌐 Social
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielbugingo/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dbug256) 
 
 # 💻 Tech Stack:
